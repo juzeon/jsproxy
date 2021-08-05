@@ -15,7 +15,7 @@ jsproxy_config({
     'globalproxifier': {
       label: 'globalproxifier',
       lines: {
-        'globalproxifier': 1,
+        'globalproxifier.tk': 1,
       },
     },
   },
